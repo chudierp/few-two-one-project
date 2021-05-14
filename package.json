@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/chudierp/few21-project/issues"
   },
-  "homepage": "https://github.com/chudierp/few21-project#readme"
+  "homepage": "https://github.com/chudierp/few21-project#readme",
+  "devDependencies": {
+    "eslint": "^7.26.0"
+  }
 }
