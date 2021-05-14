@@ -1,0 +1,19 @@
+{
+  "name": "final21-project",
+  "version": "1.0.0",
+  "description": "date and time library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chudierp/few21-project.git"
+  },
+  "author": "Chudier Chuol",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chudierp/few21-project/issues"
+  },
+  "homepage": "https://github.com/chudierp/few21-project#readme"
+}
