@@ -1,10 +1,12 @@
 sudo: false
+env:
+ - TZ=America/Los_Angeles
 language: node_js
 node_js:
 - stable
 branches:
   only:
-  - master
+  - main
 cache:
   directories:
   - node_modules
