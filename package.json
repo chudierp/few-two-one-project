@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "date and time library",
   "main": "index.js",
-  "scripts": {
+  "scripts": {"coveralls": "jest --coverage --coverageReporters=text-lcov | coveralls",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/chudierp/few21-project#readme",
   "devDependencies": {
+    "coveralls": "^3.1.0",
     "eslint": "^7.26.0"
   }
 }
